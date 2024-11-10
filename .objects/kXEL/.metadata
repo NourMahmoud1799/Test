@@ -1,0 +1,12 @@
+﻿{
+  "Name": "BasicsOfUIAutomation",
+  "Type": "App",
+  "Id": "kXELFInZSUWnTR2XhcYgTQ",
+  "Reference": "QFQ3DwfZzk-aNHPcDiWjiw/kXELFInZSUWnTR2XhcYgTQ",
+  "Created": "2024-11-10T15:47:49.122204Z",
+  "Updated": "2024-11-10T15:47:49.122204Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
